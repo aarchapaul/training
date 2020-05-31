@@ -1,1 +1,8 @@
-jabajaba
+git config --global user.name "admin"
+git config --global user.email "***@thegeeksalive.com"
+//create a local repository <training>
+git init    //notices new or modified files
+git add .   //queues up to push file
+git commit -m "version 0.0.1"
+//create new repo on github <training> and click the “Create repository” button
+//select "push existing repo from command line" and paste code shown there

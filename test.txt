@@ -5,5 +5,6 @@ git init    //notices new or modified files
 git status
 git add .   //queues up to push file
 git commit -m "version 0.0.1"
+git push origin master
 //create new repo on github <training> and click the “Create repository” button
 //select "push existing repo from command line" and paste code shown there

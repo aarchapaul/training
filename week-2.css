@@ -11,7 +11,7 @@ body{
   border:5px solid black;
   margin:0 auto;
   background-color: #8e68ff;
-  background-image: url('this');
+  background-image: "url('')";
   background-repeat: no-repeat;
   color:#FFFFFF;
   text-align: center;

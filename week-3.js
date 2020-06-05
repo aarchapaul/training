@@ -17,6 +17,8 @@ function avgMarks(){
       if(num[i]!=undefined){
         sum += num[i];
         count =count + 1;
+        console.log(sum);
+        console.log(count)
       }
     }
     var avg = sum/num.length;

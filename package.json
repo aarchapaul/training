@@ -1,0 +1,24 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "This is a test file to learn node",
+  "main": "week-2.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarchapaul/training.git"
+  },
+  "author": "Aarcha Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aarchapaul/training/issues"
+  },
+  "homepage": "https://github.com/aarchapaul/training#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}

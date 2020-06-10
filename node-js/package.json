@@ -10,5 +10,9 @@
   "license": "ISC",
   "devDependencies": {
     "minimist": "^1.2.5"
+  },
+
+  "resolutions": {
+    "minimist": "^1.2.5"
   }
 }

@@ -1,12 +1,11 @@
 {
-  "name": "training",
+  "name": "node-examples",
   "version": "1.0.0",
-  "description": "This is a test file to learn node",
-  "main": "week-2.html",
+  "description": "Simple node examples",
+  "main": "index.js",
   "scripts": {
-    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite": "lite-server"
+    "start": "node index"
   },
   "repository": {
     "type": "git",
@@ -20,5 +19,6 @@
   "homepage": "https://github.com/aarchapaul/training#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
-  }
+  },
+  "dependencies": {}
 }

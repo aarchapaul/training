@@ -1,24 +1,14 @@
 {
   "name": "node-examples",
   "version": "1.0.0",
-  "description": "Simple node examples",
+  "description": "simple node exercises",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aarchapaul/training.git"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Aarcha Paul",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/aarchapaul/training/issues"
-  },
-  "homepage": "https://github.com/aarchapaul/training#readme",
   "devDependencies": {
-    "lite-server": "^2.5.4"
-  },
-  "dependencies": {}
+    "minimist": "^1.2.5"
+  }
 }
